@@ -20,14 +20,6 @@ A first-year Arduino project designed to provide interaction for pets in 1-perso
 - SG90 Servo Motor
 - 16×2 LCD Display
 
-## System diagram
-
-![System overview](docs/diagrams/system-overview.png)
-
-## Loop flowchart
-
-![Loop flowchart](docs/diagrams/loop-flowchart.png)
-
 ## How it works
 
 ### Setup (`setup()`)
