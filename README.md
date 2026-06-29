@@ -12,6 +12,7 @@ A first-year Arduino project designed to provide interaction for pets in 1-perso
 * L298N Motor Driver
 * HC-SR04 Ultrasonic Sensor
 * DFPlayer Mini
+* PhotoResistor
 
 ## Project Context
 This was my 2024 "Adventure Design" term project. It served as my introduction to hardware integration and basic state-based logic in embedded systems.
