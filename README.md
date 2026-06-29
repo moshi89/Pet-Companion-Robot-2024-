@@ -21,7 +21,7 @@ A first-year Arduino project designed to provide interaction for pets in 1-perso
 - 16×2 LCD Display
 # Smart Pet Companion Robot
 
-![Pet Companion Robot](/assets/robot_photo.jpeg)
+![Pet Companion Robot](/Pet Companion Robot/assets/robot_photo.jpeg)
 
 ## How it works
 
