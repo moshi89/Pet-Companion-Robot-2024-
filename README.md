@@ -19,6 +19,9 @@ A first-year Arduino project designed to provide interaction for pets in 1-perso
 - Photoresistor
 - SG90 Servo Motor
 - 16×2 LCD Display
+# Smart Pet Companion Robot
+
+![Pet Companion Robot](/assets/robot_photo.png)
 
 ## How it works
 
